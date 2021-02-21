@@ -49,4 +49,5 @@ You can try the chat bot here: <https://www.m.me/medipusbot>
 
 ## Health Score 
 
-Health Score keeps users motivated and acts like a percentage, but can go higher than 100, so users are able to "overfill" it. Every time users attend a necessary screening, take a monthly quiz on the chat bot or unlock an achievement they gain Health Score. In order to the keep the users motivated we also take some points from them over time. Health Score decreases by 5 points monthly in case of inactivity (not logging in, not attending examinations etc.). In case there is an overdue recommended examination for the user the Health Score decreases faster, by 10 points monthly.
+Health Score keeps users motivated and acts like a percentage, but can go higher than 100, so users are able to "overfill" it. Every time users attend a necessary screening, take a monthly quiz on the chat bot or unlock an achievement they gain Health Score. In order to the keep the users motivated we also take some points from them over time. Health Score decreases by 5 points monthly in case of inactivity (not logging in, not attending examinations etc.). In case there is an overdue recommended examination for the user the Health Score decreases faster, by 10 points monthly. Detailed description can be found here:
+<https://github.com/LSD2evosoft/medipus-web/blob/main/docs/Medipus_scoring_v2.xlsx>
