@@ -37,6 +37,12 @@ Our source code is available in two repositories:
 
 Our demo products can be visited as well by the following addresses:
 
-- Submission video: <https://www.youtube.com/watch?v=hJNmfDeob8Q>
+- Submission video: <https://www.youtube.com/watch?v=ORIF1vLcnT4>
 - Website: <https://medipus-5c569.web.app/>
 - Chatbot (standalone): <https://www.m.me/medipusbot>
+
+## Chat bot
+
+The Medipus Facebook Messenger chat bot was developed with Chatfuel. It has 3 main features: list the necessary screenings based on the answers given for age and gender, give detailed information about specific examinations and a quiz which allows users to collect Health Score. Besides the structured flows user can input any question. The bot can handle open questions like "What is colonoscopy?", "What is the purpose of medical screening?" or questions about its personality like "What is your age?" or "Where do you live?". 
+Please note that we are using the free version of Chatfuel, so it will reply to the first 50 users only. 
+You can try the chat bot here: <https://www.m.me/medipusbot>
