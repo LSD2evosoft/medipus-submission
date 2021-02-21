@@ -46,3 +46,7 @@ Our demo products can be visited as well by the following addresses:
 The Medipus Facebook Messenger chat bot was developed with Chatfuel. It has 3 main features: list the necessary screenings based on the answers given for age and gender, give detailed information about specific examinations and a quiz which allows users to collect Health Score. Besides the structured flows the user can input any question. The bot can handle open questions like "What is colonoscopy?", "What is the purpose of medical screening?" or questions about its personality like "What is your age?" or "Where do you live?". 
 Please note that we are using the free version of Chatfuel, so it will reply to the first 50 users only. 
 You can try the chat bot here: <https://www.m.me/medipusbot>
+
+## Health Score 
+
+Health Score keeps users motivated and acts like a percentage, but can go higher than 100, so users are able to "overfill" it. Every time users attend a necessary screening, take a monthly quiz on the chat bot or unlock an achievement they gain Health Score. In order to the keep the users motivated we also take some points from them over time. Health Score decreases by 5 points monthly in case of inactivity (not logging in, not attending examinations etc.). In case there is an overdue recommended examination for the user the Health Score decreases faster, by 10 points monthly.
