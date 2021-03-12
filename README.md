@@ -37,7 +37,7 @@ Our source code is available in two repositories:
 
 Our demo products can be visited as well by the following addresses:
 
-- Submission video: <https://www.youtube.com/watch?v=ORIF1vLcnT4>
+- Submission video: <https://www.youtube.com/watch?v=hJNmfDeob8Q>
 - Website: <https://medipus-5c569.web.app/>
 - Chatbot (standalone): <https://www.m.me/medipusbot>
 
